@@ -8,11 +8,11 @@ function Header() {
                     {/* text*/}
                     <div className="flex flex-col justify-center pb-10 md:gap-2  rounded-lg lg:aspect-square">
                         <div>
-                            <h1 className="text-5xl md:text-5xl font-semibold">
+                            <h1 className="text-5xl md:text-5xl font-semibold w-[70%]">
                                 New Collection Summer 2024
                             </h1>
                             <p
-                                className="text-base md:text-lg text-slate-500 max-w-md mt-4"
+                                className="text-base md:text-lg text-slate-500 max-w-md mt-4 w-[80%]"
                                 style={{ fontWeight: 300 }}
                             >
                                 Discover the latest trends in fashion with our curated collection
